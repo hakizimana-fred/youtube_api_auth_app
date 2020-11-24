@@ -1,5 +1,5 @@
 // Options
-const CLIENT_ID = '37114428939-bs876ehb8kosrvt0uhn1duit8frn1htj.apps.googleusercontent.com;
+const CLIENT_ID = '37114428939-bs876ehb8kosrvt0uhn1duit8frn1htj.apps.googleusercontent.com';
 const DISCOVERY_DOCS = [
   'https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest'
 ];
